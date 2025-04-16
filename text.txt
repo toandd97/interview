@@ -1,0 +1,11 @@
+    oop, nguyên tắc solid
+cho 1 tình huống bảo thiết kế class theo chuẩn oop
+design partent
+hỏi về db, so sánh acid và base, sql, nosql
+các service giao tiếp với nhau như thế nào
+Có kinh nghiệm HTTP, Web services, OAuth2, Restfull APIs.
+Có kinh nghiệm microservices architecture và event driven programming paradigm.
+Có kinh nghiệm làm việc với web framework như Django, Flask, FastAPI, Starlette,...
+Có kinh nghiệm làm việc với hệ thống message queue như Celery, Redis queue, Dramatiq,...
+Có kinh nghiệm làm việc với hệ thống database như PostgreSQL, MongoDB.
+Có hiểu biết về queue như Redis, RabbitMQ, Apache Kafka.
