@@ -5,5 +5,10 @@ lập trình hướng đối tượng (OOP) trong python là gì?
     Là một cách tổ chức code mà chúng ta sử dụng các đối tượng để làm việc.Giúp chúng ta tập trung 
     vào các đối tượng thay vì tập trung vào các thao tác, giúp mã dễ đọc, dễ bảo trì và dễ thao tác
 1. Các khái niệm cơ bản của OOP
-    - 
+1. Basic concept of OOP
+OOP based on 4 principle:
+    1. Encapsulation (Tính đóng gói): hide implementation detail inside the object and providing only the necessaly interface
+    2. Inheritance (Tính kế thừa): a class can inherit the properties and method form another class
+    3. Polymorphism (Tính đa hình): Objects form another class can call the same method but the behavior is different
+    4. Abtriaction (Tính trừu tượng): Show only the necessary details and hide the complicated details
 
